@@ -31,9 +31,23 @@ for businesses in the Czech Republic and Germany.
 |---|---|---|
 | **DriveHosting FTP** | macOS | SFTP/FTP/FTPS client and code editor in one window – edit files on the server directly, live HTML/CSS/PHP preview (WordPress included), images, PDF and video. Built for clients of Drivehosting.NET. |
 | **Zvedačka** | iPhone + Apple Watch | Strength & cardio training log – live heart rate, workout sync between iPhone and Watch, progress analysis, watch-face complication. |
-| **Client websites** | Web | References and portfolio on [drivespace.cz](https://www.drivespace.cz) |
 
-*Source code of these projects is private – happy to show a demo.*
+*Source code of these apps is private – happy to show a demo.*
+
+### 🌐 Selected websites
+
+| Client | Type |
+|---|---|
+| [Hotel Egeria Cheb](https://www.drivespace.cz/portfolio/hotel-egeria-cheb/) | Hotel |
+| [Playmobil CZ](https://www.drivespace.cz/portfolio/playmobil-cz-spol-s-r-o/) | Blog |
+| [Fitfinezone.cz](https://www.drivespace.cz/portfolio/fitfinezone-cz/) | E-shop – supplements |
+| [Cafe Illusion History](https://www.drivespace.cz/portfolio/cafe-illusion-history/) | Restaurant |
+| [Autosklo Kufner](https://www.drivespace.cz/portfolio/autosklo-kufner-s-r-o/) | Car services |
+| [MA Knife](https://www.drivespace.cz/portfolio/ma-knife/) | Knives |
+| [UPMOTO Čtyřkolky](https://www.drivespace.cz/portfolio/upmoto-ctyrkolky/) | Auto-moto (ATVs) |
+| [KAMIDDOS](https://www.drivespace.cz/portfolio/kamiddos-ekologicke-sluzby-s-r-o/) | Recycling services |
+
+➡️ **All references:** [drivespace.cz/reference](https://www.drivespace.cz/reference/)
 
 ---
 
@@ -41,4 +55,4 @@ for businesses in the Czech Republic and Germany.
 
 Tvořím **weby, e-shopy a aplikace pro Mac a iPhone**. Přes 15 let, 150+ spuštěných webů, vlastní hosting.
 Hledám spolupráci s agenturami a firmami – weby na WordPressu i aplikace ve SwiftUI.
-Ozvěte se na **info@drivespace.cz**.
+Ukázky práce: [drivespace.cz/reference](https://www.drivespace.cz/reference/) · Ozvěte se na **info@drivespace.cz**.
