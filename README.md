@@ -55,4 +55,5 @@ for businesses in the Czech Republic and Germany.
 
 Tvořím **weby, e-shopy a aplikace pro Mac a iPhone**. Přes 15 let, 150+ spuštěných webů, vlastní hosting.
 Hledám spolupráci s agenturami a firmami – weby na WordPressu i aplikace ve SwiftUI.
-Ukázky práce: [drivespace.cz/reference](https://www.drivespace.cz/reference/) · Ozvěte se na **info@drivespace.cz**.
+Ozvěte se na **info@drivespace.cz**.
+Ukázky práce: [drivespace.cz/reference](https://www.drivespace.cz/reference/).
